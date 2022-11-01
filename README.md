@@ -1,12 +1,15 @@
 # ReadMe Generator - ReadMe Generator
-For this project I have created a Readme generator from the command line
+## Project Description
+Type description here
 ## Github user Name
  joshgmurray
 ## Installation
-I used inquirer for this application
+Instructions go here
 ## Usage
-To use this generator, install necessary packages and run node index.js
+Usage information goes here
 ## Contributing
-For this application I was tasked with creating an array of questions along with a function to append it to the readme file.
+contribution guidelines
+## Screenshot
+![screenshot](./Screen%20Shot%202022-11-01%20at%2011.08.16%20AM.png)
 ## License
 MIT License
